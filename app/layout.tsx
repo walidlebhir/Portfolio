@@ -19,6 +19,14 @@ export const metadata: Metadata = {
   title: "Walid Lebhir — Software Engineer",
   description:
     "Portfolio of Walid Lebhir, Computer Engineering Student & Software Engineer passionate about Software Architecture, Backend, DevOps and Artificial Intelligence.",
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/icon.png", type: "image/png", sizes: "512x512" },
+    ],
+    apple: [{ url: "/apple-icon.png", sizes: "180x180" }],
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

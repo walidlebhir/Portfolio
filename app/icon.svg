@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Fond arrondi noir -->
+  <rect width="64" height="64" rx="14" fill="#000000"/>
+  <!-- Globe terrestre = symbole internet -->
+  <circle cx="32" cy="32" r="18" fill="none" stroke="white" stroke-width="3"/>
+  <ellipse cx="32" cy="32" rx="9" ry="18" fill="none" stroke="white" stroke-width="2.2" opacity="0.9"/>
+  <line x1="14" y1="32" x2="50" y2="32" stroke="white" stroke-width="2.2" opacity="0.9"/>
+  <path d="M18 22 Q32 28 46 22" fill="none" stroke="white" stroke-width="2" opacity="0.8"/>
+  <path d="M18 42 Q32 36 46 42" fill="none" stroke="white" stroke-width="2" opacity="0.8"/>
+  <!-- Orbite internet -->
+  <ellipse cx="32" cy="32" rx="24" ry="9" fill="none" stroke="white" stroke-width="2" opacity="0.9" transform="rotate(-20 32 32)"/>
+  <circle cx="53" cy="24" r="3" fill="white"/>
+</svg>
