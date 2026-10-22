@@ -6,6 +6,16 @@ import { useLanguage } from "./i18n";
 
 export const featuredProjects: ProjectPlaceholder[] = [
   {
+    title: "MedOS",
+    description: "",
+    tags: ["Spring Boot", "Next.js", "React Native", "AWS"],
+    image: "/CabinetOs_Saas/web-dashboard.png",
+    slug: "medos",
+    status: "live",
+    descKey: "proj.medos",
+    statusLabelKey: "projects.status.health",
+  },
+  {
     title: "SpendPilot",
     description: "",
     tags: ["NestJS", "React", "React Native", "LangGraph"],

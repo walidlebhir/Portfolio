@@ -89,7 +89,10 @@ const en: Dict = {
   "projects.status.agentic": "Agentic AI",
   "projects.status.multi": "Multimodal AI",
   "projects.status.dl": "Deep Learning",
+  "projects.status.health": "Medical SaaS",
 
+  "proj.medos":
+    "Multi-clinic medical SaaS by MedOS: secure Spring Boot API, Next.js web app and React Native mobile app with conflict-free scheduling, medical records and AWS infrastructure as code.",
   "proj.spendpilot":
     "SaaS platform for managing remote business missions: centralized expenses, full approval workflow and multi-agent AI (LangGraph + MCP).",
   "proj.rh":
@@ -196,7 +199,10 @@ const fr: Dict = {
   "projects.status.agentic": "IA agentique",
   "projects.status.multi": "IA multimodale",
   "projects.status.dl": "Deep Learning",
+  "projects.status.health": "SaaS médical",
 
+  "proj.medos":
+    "SaaS médical multi-cabinets MedOS : API Spring Boot sécurisée, application web Next.js et application mobile React Native — planning sans conflits, dossiers médicaux et infrastructure AWS as code.",
   "proj.spendpilot":
     "Plateforme SaaS de gestion des missions professionnelles à distance : dépenses centralisées, workflow d'approbation complet et agents IA multi-agents (LangGraph + MCP).",
   "proj.rh":
